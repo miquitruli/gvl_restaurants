@@ -1,6 +1,6 @@
 # GvlRestaurants
 
-Welcome to the Greenville Restaurants GEM. This Ruby Gem provides a CLI to view the 10 best restaurants in Greenville, SC according to USA Today. The CLI will give you options of what locations in Greenville the user would like, and after making that selection it will provide further information so the user can select a restaurant. Once a restaurant is chosen, the restaurant's information can be provided to facilitate the customer to either view their menu or call the restaurant to make a reservation.
+Welcome to the Greenville Restaurants GEM. This Ruby Gem provides a CLI to view the 10 best romantic restaurants in Greenville, SC according to USA Today. The CLI will give you options of what locations in Greenville the user would like, and after making thaa list of the restaurants in that location plus an expert tip! Once a restaurant is chosen, the restaurant's information can be provided to facilitate the customer to either view their menu or call the restaurant to make a reservation.
 
 ## Installation
 
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Type the text below and follow the instructions that are prompted
+
+    $ gvl_restaurants
 
 ## Development
 

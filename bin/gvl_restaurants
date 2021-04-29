@@ -2,4 +2,4 @@
 
 require_relative '../lib/gvl_restaurants'
 
-GvlRestaurants::CLI.new.intro
+GvlRestaurants::CLI.new.call
